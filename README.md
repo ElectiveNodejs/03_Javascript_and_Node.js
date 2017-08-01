@@ -1,4 +1,4 @@
-<img src="/img/JavaScript-Logo.jpg" >
+<img src="/img/JavaScript-Logo.jpg" width="100%">
 
 # 03 Javascript and Node.js
 ## Agenda for day 3: Javascript and Node.js  
