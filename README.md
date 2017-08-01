@@ -1,13 +1,13 @@
 # 03 Javascript and Node.js
 <img src="/img/JavaScript-Logo.jpg" width="100%">
 
-
 ## Agenda for day 3: Javascript and Node.js  
 
 Before we meet today you should have complete this tutorial:
-* [Javascripting]()
+* [Javascripting](https://github.com/workshopper/javascripting)
 
 ### Exercises
-The following exercises can be found at: [Nodeschool.io](https://nodeschool.io/#workshoppers)   
+* We will do a few of the exercises in this tutorial
+    * [learnyounode](https://github.com/workshopper/learnyounode)
 
 
