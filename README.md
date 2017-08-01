@@ -1,6 +1,7 @@
+# 03 Javascript and Node.js
 <img src="/img/JavaScript-Logo.jpg" width="100%">
 
-# 03 Javascript and Node.js
+
 ## Agenda for day 3: Javascript and Node.js  
 
 Before we meet today you should have complete this tutorial:
