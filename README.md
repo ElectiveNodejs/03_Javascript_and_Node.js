@@ -1,3 +1,5 @@
+<img src="/img/JavaScript-Logo.jpg" >
+
 # 03 Javascript and Node.js
 ## Agenda for day 3: Javascript and Node.js  
 
