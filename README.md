@@ -5,6 +5,7 @@
 
 Before we meet today you should have complete this tutorial:
 * [Javascripting](https://github.com/workshopper/javascripting)
+* [Node.js](https://www.w3schools.com/nodejs/default.asp)
 
 ### Exercises
 * We will do a few of the exercises in this tutorial
