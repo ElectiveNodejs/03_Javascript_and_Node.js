@@ -1,3 +1,4 @@
+````    
 // create an object called person
 // the object should have the properties:
 // name, age, gender
@@ -14,3 +15,5 @@
 // It should should have the 2 properties name and age.
 // name and age should be private, 
 // and should be accessible through public getters and a setters
+
+````   
